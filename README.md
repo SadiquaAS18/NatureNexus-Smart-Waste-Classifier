@@ -1,5 +1,7 @@
 # NatureNexus-Smart-Waste-Classifier
-![Smartwasteclassifier](https://github.com/user-attachments/assets/4faaa7b1-3bff-4482-b69a-fd6b84e45ed5)
+![organic](https://github.com/user-attachments/assets/ac075d85-3f2d-4699-8cac-cc5e77662e5f)
+![Recycle](https://github.com/user-attachments/assets/fa1b4bdf-8dc0-4104-bd82-7f8b552df657)
+
 # SmartWasteClassifier
 
 Smart Waste Management is an AI-powered solution designed to classify waste into organic and recyclable categories. This helps in efficient waste sorting, reducing pollution, and promoting recycling. The system utilizes Azure Custom Vision to analyze images and determine the correct waste category.
